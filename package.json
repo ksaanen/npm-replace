@@ -1,0 +1,23 @@
+{
+  "name": "npm-replace",
+  "version": "0.1.0",
+  "description": "Simple replace module for replacing text within files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ksaanen/npm-replace.git"
+  },
+  "keywords": [
+    "replace",
+    "regex"
+  ],
+  "author": "Kevin Saanen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksaanen/npm-replace/issues"
+  },
+  "homepage": "https://github.com/ksaanen/npm-replace#readme"
+}

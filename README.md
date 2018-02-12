@@ -1,2 +1,6 @@
 # npm-replace
-NPM module for replacing text within files trough nodejs
+
+## example:
+
+let npmreplace = require('npm-replace');
+npmreplace.replace('somedir/somefile.js', replace-this, with-this, 'outputdir/isoptional.js');
